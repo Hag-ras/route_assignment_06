@@ -1,1 +1,1 @@
-export { default as bookController} from './books.controller.js'
+export { default as bookController } from './books.controller.js'
